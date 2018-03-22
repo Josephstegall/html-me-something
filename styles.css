@@ -353,6 +353,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     display: block;
+    padding-top: 70px;
 }
 .font{
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
@@ -366,6 +367,13 @@ a:link {
 a:visited {
     text-decoration: none;
     color: greenyellow;
+}
+h1{
+  background-color: darkslateblue;
+}
+
+h2{
+  background-color: darkslateblue;
 }
 
 a:hover {
